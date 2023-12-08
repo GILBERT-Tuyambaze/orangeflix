@@ -1,0 +1,9 @@
+
+input[type="submit"]{
+    position: fixed;
+    top:3.2rem;
+    right: 1.8rem;
+    z-index: 101;
+    border-radius: 0px;
+ }
+
